@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-journey-orchestration-flutter",
+  "capabilityKey": "liberusoftware/module-crm-journey-orchestration",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_journey_orchestration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/journey-orchestration.md",
+  "presentationPlan": "projects/crm/flutter/journey-orchestration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
